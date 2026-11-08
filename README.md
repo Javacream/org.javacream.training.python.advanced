@@ -1,21 +1,21 @@
-# Python Advanced
+# Python – Fortgeschrittene Programmierung
 
-**Empfohlene Dauer:** 4 Tage
+**Empfohlene Dauer:** 3 Tage
 
-**Voraussetzungen:** Grundlegende IT-Kenntnisse; Programmiererfahrung ist je nach Thema hilfreich.
+**Voraussetzungen:** Sichere Kenntnisse der Python-Grundlagen, insbesondere Datentypen, Kontrollstrukturen, Funktionen, Module und grundlegende Datenstrukturen.
 
 ### Abstract
 
-Dieses Training vermittelt die Grundlagen und praktischen Einsatzmöglichkeiten von Python Advanced. Die Teilnehmenden lernen zentrale Begriffe, typische Anwendungsfälle und die wichtigsten technischen Zusammenhänge kennen. Darauf aufbauend werden die wesentlichen Funktionen und Arbeitsabläufe anhand verständlicher Beispiele vorgestellt. Praktische Übungen ermöglichen es, die vorgestellten Konzepte selbst auszuprobieren und deren Nutzen für reale Projekte einzuschätzen. Besondere Aufmerksamkeit gilt der Auswahl geeigneter Werkzeuge, der nachvollziehbaren Gestaltung von Lösungen und dem Erkennen häufiger Fehlerquellen. Ergänzend werden Aspekte der Qualität, Wartbarkeit und Zusammenarbeit behandelt. Am Ende können die Teilnehmenden typische Aufgabenstellungen einordnen, passende Lösungsansätze entwickeln und das Gelernte eigenständig in ihrem beruflichen Umfeld anwenden.
+Dieses Training vertieft vorhandene Python-Kenntnisse und vermittelt fortgeschrittene Konzepte für die Entwicklung strukturierter, wartbarer und effizienter Anwendungen. Im Mittelpunkt stehen objektorientierte Programmierung, erweiterte Sprachkonzepte wie Decorators, Generators und Context Managers sowie der gezielte Einsatz der Python-Standardbibliothek. Die Teilnehmenden beschäftigen sich außerdem mit Typannotationen, Fehlerbehandlung, modularer Anwendungsstruktur und bewährten Vorgehensweisen zur Verbesserung der Codequalität. Ergänzend werden automatisierte Tests, Debugging und grundlegende Aspekte der Performance-Optimierung behandelt. Praxisorientierte Übungen demonstrieren, wie sich diese Konzepte in realistischen Anwendungsszenarien kombinieren lassen. Ziel ist es, bestehende Python-Anwendungen professionell weiterzuentwickeln und anspruchsvollere Softwarelösungen eigenständig zu implementieren.
 
 ---
 
-# Python Advanced
+# Python – Advanced Programming
 
-**Recommended Duration:** 4 days
+**Recommended Duration:** 3 days
 
-**Prerequisites:** Basic IT knowledge; programming experience is helpful depending on the topic.
+**Prerequisites:** Solid knowledge of Python fundamentals, including data types, control structures, functions, modules, and basic data structures.
 
 ### Abstract
 
-This training introduces the fundamentals and practical applications of Python Advanced. Participants explore essential terminology, typical use cases, and the most important technical relationships. Building on this foundation, key features and workflows are explained through clear examples. Hands-on exercises allow participants to try the concepts themselves and evaluate their relevance to real-world projects. Special attention is paid to selecting suitable tools, designing understandable solutions, and recognizing common sources of errors. The course also addresses quality, maintainability, and collaboration in professional environments. By the end of the training, participants will be able to assess typical tasks, identify appropriate solutions, and apply the acquired knowledge independently in their own work.
+This training builds on existing Python knowledge and introduces advanced concepts for developing structured, maintainable, and efficient applications. Key topics include object-oriented programming, advanced language features such as decorators, generators, and context managers, and effective use of the Python standard library. Participants also explore type annotations, exception handling, modular application design, and established practices for improving code quality. Additional topics include automated testing, debugging, and fundamental performance optimization techniques. Practical exercises demonstrate how these concepts can be combined in realistic application scenarios. The objective is to enable participants to enhance existing Python applications professionally and independently implement more sophisticated software solutions.
